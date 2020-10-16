@@ -38,3 +38,10 @@ In this version I amended the program to create vios profiles interactively and 
 In addition to the LPARs automation creation kit which which will add the adapters in newly created LPARS profiles
 Plus it will attempt to dynamically create the corresponding virtual fiber adapters in the both VIOS, it has a condition
 To just add them into the VIOS profiles in case the dynamic operation fails against the VIOS.
+
+To use the toolkit, just upload the three programs into your HMC, and just run the one you need by:
+$ . PROGRNAME
+
+If you have questions, please direct them to:
+ahdmashr@eg.ibm.com
+icemashhour@yahoo.com
