@@ -1,4 +1,4 @@
-# LPARs-automation-toolkit-V16.6
+# LPARs-automation-toolkit
 Would you like to create a number of LPARs on your Power systems in no time?
 
 
